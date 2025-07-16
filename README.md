@@ -1,6 +1,7 @@
 # 🎓 Student Performance Analysis Dashboard – Excel
 
-An interactive Excel dashboard to analyze the performance of 100 students across 5 subjects using PivotTables, slicers, and dynamic charts.
+This Excel dashboard project demonstrates strong data analysis and visualization skills by analyzing the performance of 100 students across 5 subjects. It uses PivotTables, slicers, and dynamic charts to extract insights like pass/fail counts, top performers, grade distribution, and subject-wise trends — showcasing practical Excel proficiency and dashboard design.
+
 
 ## 📊 Key Insights
 
