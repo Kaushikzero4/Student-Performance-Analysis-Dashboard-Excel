@@ -17,12 +17,6 @@ An interactive Excel dashboard to analyze the performance of 100 students across
 - Conditional Formatting  
 - Charts & Basic Formulas  
 
-## 🚀 How to Use
-
-1. Clone/download the repo  
-2. Open `Student_Performance_Dashboard.xlsx`  
-3. Use slicers to filter data by grade, subject, or status  
-
 **Kaushik Kumar Nayak**  
 📧 kaushikkumarnayak44@gmail.com  
 🌐 www.linkedin.com/in/kaushikzero4
